@@ -715,6 +715,8 @@ PORTFOLIO
 .hw-img {
   display: block;
   overflow: hidden;
+}
+.hw-img img {
   transition: all 1s;
   width: 250px;
   height: 200px; 
@@ -722,7 +724,7 @@ PORTFOLIO
 
 .work-img img {
   transition: all 1s;
-  width: 450px;
+  width: 420px;
   height: 250px;
 }
 

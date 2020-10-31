@@ -59,7 +59,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "My name is Jonathan Echevarria Davila and I am an IT/Software Engineer. I work as IT Support for a company called REPAY. I am currently developing my skills as a web developer in the 6 month coding bootcamp at Georgia Tech."
+            "My name is Jonathan Davila and I am an IT/Software Engineer. I work as IT Support for a company called REPAY. I am currently developing my skills as a web developer in the 6 month coding bootcamp at Georgia Tech."
 
         },
         {

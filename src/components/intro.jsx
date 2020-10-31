@@ -15,7 +15,7 @@ class Intro extends React.Component {
         <div className="intro-content display-table">
           <div className="table-cell">
             <div className="container">
-              <h1 className="intro-title mb-4">Hello, I am Jonathan Echevarria Davila</h1>
+              <h1 className="intro-title mb-4">Hello, I am Jonathan Davila</h1>
               <p className="intro-subtitle">
                 <span className="text-slider-items"></span>
                 <strong className="text-slider">
@@ -44,9 +44,9 @@ class Intro extends React.Component {
                 <span>
                   <a
                     className="btn btn-primary btn px-4"
-                    href="Resume.pdf"
+                    href="../Assets/Jonathan Echevarria Resume.pdf"
                     role="button"
-                    download
+                    download           
                   >
                     Download Resume
                     </a>

@@ -7,7 +7,7 @@ import CS from "../img/Carmen-Sol.jpeg";
 class Education extends React.Component {
     render() {
         return (
-            <section id="experience" className="portfolio-mf sect-pt4 route">
+            <section id="#education" className="portfolio-mf sect-pt4 route">
                 <div className="container">
                     <div className="row">
                         <div className="col-sm-12">

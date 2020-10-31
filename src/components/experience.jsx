@@ -30,7 +30,7 @@ class Experience extends React.Component {
                                             <div className="col-sm-8">
                                                 <h2 className="w-title">REPAY</h2>
                                                 <div className="w-more">
-                                                    <span className="w-ctegory"> IT Associate</span>
+                                                    <span className="w-ctegory"> IT Support</span>
                                                 </div>
                                                 <span className="w-date">March '18 - Current</span>
                                             </div>
@@ -79,7 +79,7 @@ class Experience extends React.Component {
                                     <div className="work-content">
                                         <div className="row">
                                             <div className="col-sm-8">
-                                                <h2 className="w-title">Army Puerto Rico National Guard</h2>
+                                                <h2 className="w-title">PR National Guard</h2>
                                                 <div className="w-more">
                                                     <span className="w-ctegory">
                                                         Information Technology Specialist</span>
