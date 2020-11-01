@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.9c63df9e.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.766b69e6.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.766b69e6.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.fa1c8486.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fa1c8486.js.map",
+    "static/css/2.bb85ee2d.chunk.css": "/react-portfolio/static/css/2.bb85ee2d.chunk.css",
+    "static/js/2.53409429.chunk.js": "/react-portfolio/static/js/2.53409429.chunk.js",
+    "static/js/2.53409429.chunk.js.map": "/react-portfolio/static/js/2.53409429.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/2.bb85ee2d.chunk.css.map": "/react-portfolio/static/css/2.bb85ee2d.chunk.css.map",
+    "static/css/main.9c63df9e.chunk.css.map": "/react-portfolio/static/css/main.9c63df9e.chunk.css.map",
+    "static/js/2.53409429.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.53409429.chunk.js.LICENSE.txt",
+    "static/media/Army.de53b7d7.png": "/react-portfolio/static/media/Army.de53b7d7.png",
+    "static/media/Carmen-Sol.64207140.jpeg": "/react-portfolio/static/media/Carmen-Sol.64207140.jpeg",
+    "static/media/PRNG.c54e7eff.jpg": "/react-portfolio/static/media/PRNG.c54e7eff.jpg",
+    "static/media/UMT.90c64a10.jpg": "/react-portfolio/static/media/UMT.90c64a10.jpg",
+    "static/media/budget-tracker.432ffb2f.png": "/react-portfolio/static/media/budget-tracker.432ffb2f.png",
+    "static/media/can-i-eat-it.efbe2a12.jpg": "/react-portfolio/static/media/can-i-eat-it.efbe2a12.jpg",
+    "static/media/earth.a08c82a6.jpg": "/react-portfolio/static/media/earth.a08c82a6.jpg",
+    "static/media/employee-directory.28ed4456.png": "/react-portfolio/static/media/employee-directory.28ed4456.png",
+    "static/media/font-awesome.css": "/react-portfolio/static/media/fontawesome-webfont.f691f37e.woff",
+    "static/media/ionicons.css": "/react-portfolio/static/media/ionicons.b45d332f.svg",
+    "static/media/krusty.47ed890f.png": "/react-portfolio/static/media/krusty.47ed890f.png",
+    "static/media/myImage.d37bb1c9.png": "/react-portfolio/static/media/myImage.d37bb1c9.png",
+    "static/media/note-taker.c535659e.png": "/react-portfolio/static/media/note-taker.c535659e.png",
+    "static/media/palm-tree.2ff8edff.png": "/react-portfolio/static/media/palm-tree.2ff8edff.png",
+    "static/media/space.b81bf0aa.png": "/react-portfolio/static/media/space.b81bf0aa.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fa1c8486.js",
+    "static/css/2.bb85ee2d.chunk.css",
+    "static/js/2.53409429.chunk.js",
+    "static/css/main.9c63df9e.chunk.css",
+    "static/js/main.766b69e6.chunk.js"
+  ]
+}
