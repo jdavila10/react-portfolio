@@ -8,7 +8,7 @@
 
  ## Description
 
- This is a responsive portfolio describing who I am, my background and why I am pursuing web development / coding. This portfolio also displays the key projects I have done so far in the Full Stack Web Development Bootcamp at Georgia Tech in the summer and fall of 2020. The portfolio is deployed [here](https://jdavila10.github.io/react-portfolio/).
+ This is a responsive portfolio describing who I am, my background and why I am pursuing a career in web development. This portfolio also displays the key projects I have done so far in the Full Stack Web Development Bootcamp at Georgia Tech during the summer and fall of 2020. The portfolio is deployed [here](https://jdavila10.github.io/react-portfolio/).
 
 
   ## Contribution
