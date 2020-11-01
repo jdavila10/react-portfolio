@@ -4,14 +4,6 @@
 
 ![](./src/img/app.gif)
 
- 
-
-  ## Features
- 
- * Fully responsive
- * Comes with Bootstrap grid system
- * Easy colour changes can be done through simple variable edits.
-
 
 
  ## Description
