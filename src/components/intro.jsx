@@ -2,6 +2,7 @@
 import React from "react";
 import "./stars.scss";
 import Typed from "react-typed";
+import Resume from "../Assets/Resume.pdf";
 
 class Intro extends React.Component {
   render() {
@@ -43,10 +44,11 @@ class Intro extends React.Component {
                 </span>
                 <span>
                   <a
-                    onClick={() => window.open(require("../Assets/Resume.pdf"), "_none")}
-                    className = "btn btn-primary btn px-4"
-                    href = "../Assets/Jonathan Echevarria Resume.pdf"
+                    
+                   href={Resume} download={Resume}
+                    className = "btn btn-primary btn px-4"                    
                     role = "button"
+                    
                       >
                       Download Resume
                     </a>
