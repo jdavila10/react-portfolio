@@ -22,7 +22,7 @@ class Intro extends React.Component {
                   <Typed
                     strings={[
                       "IT",
-                      "Software Engineer"                      
+                      "Software Engineer"
                     ]}
                     typeSpeed={80}
                     backDelay={1100}
@@ -43,12 +43,12 @@ class Intro extends React.Component {
                 </span>
                 <span>
                   <a
-                    onClick={() => window.open(require(""../Assets/Jonathan Echevarria Resume.pdf"), "_none")}
-                    className="btn btn-primary btn px-4"
-                    href="../Assets/Jonathan Echevarria Resume.pdf"
-                    role="button"                             
-                  >
-                    Download Resume
+                    onClick={() => window.open(require("../Assets/Resume.pdf"), "_none")}
+                    className = "btn btn-primary btn px-4"
+                    href = "../Assets/Jonathan Echevarria Resume.pdf"
+                    role = "button"
+                      >
+                      Download Resume
                     </a>
                 </span>
               </p>
