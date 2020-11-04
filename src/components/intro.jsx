@@ -43,10 +43,10 @@ class Intro extends React.Component {
                 </span>
                 <span>
                   <a
+                    onClick={() => window.open(require(""../Assets/Jonathan Echevarria Resume.pdf"), "_none")}
                     className="btn btn-primary btn px-4"
                     href="../Assets/Jonathan Echevarria Resume.pdf"
-                    role="button"
-                    download           
+                    role="button"                             
                   >
                     Download Resume
                     </a>
