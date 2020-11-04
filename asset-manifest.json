@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.9c63df9e.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.766b69e6.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.766b69e6.chunk.js.map",
+    "main.js": "/react-portfolio/static/js/main.d6d51267.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.d6d51267.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.fa1c8486.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.fa1c8486.js.map",
     "static/css/2.bb85ee2d.chunk.css": "/react-portfolio/static/css/2.bb85ee2d.chunk.css",
@@ -15,6 +15,7 @@
     "static/media/Army.de53b7d7.png": "/react-portfolio/static/media/Army.de53b7d7.png",
     "static/media/Carmen-Sol.64207140.jpeg": "/react-portfolio/static/media/Carmen-Sol.64207140.jpeg",
     "static/media/PRNG.c54e7eff.jpg": "/react-portfolio/static/media/PRNG.c54e7eff.jpg",
+    "static/media/Resume.pdf": "/react-portfolio/static/media/Resume.90e552f3.pdf",
     "static/media/UMT.90c64a10.jpg": "/react-portfolio/static/media/UMT.90c64a10.jpg",
     "static/media/budget-tracker.432ffb2f.png": "/react-portfolio/static/media/budget-tracker.432ffb2f.png",
     "static/media/can-i-eat-it.efbe2a12.jpg": "/react-portfolio/static/media/can-i-eat-it.efbe2a12.jpg",
@@ -33,6 +34,6 @@
     "static/css/2.bb85ee2d.chunk.css",
     "static/js/2.53409429.chunk.js",
     "static/css/main.9c63df9e.chunk.css",
-    "static/js/main.766b69e6.chunk.js"
+    "static/js/main.d6d51267.chunk.js"
   ]
 }
